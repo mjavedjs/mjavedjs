@@ -9,12 +9,12 @@ My focus is on writing clean, maintainable code, building user-friendly experien
 
 | Skill                                              | Proficiency |
 |---------------------------------------------------|-------------|
-| Semantic and accessible **HTML5**                 | ![95%](https://progress-bar.dev/95/?title=A+&color=4CAF50) |
-| Responsive UI with **CSS3**, **Bootstrap**, **Tailwind CSS** | ![95%](https://progress-bar.dev/95/?title=A+&color=4CAF50) |
-| Modern **JavaScript (ES6+)**                      | ![85%](https://progress-bar.dev/85/?title=A&color=2196F3) |
-| **Firebase** (Authentication, Realtime DB)        | ![75%](https://progress-bar.dev/75/?title=B+&color=FFC107) |
-| **React** (Components, State, Props) *(learning)* | ![65%](https://progress-bar.dev/65/?title=B&color=FF9800) |
-| Mobile-first design & performance optimization    | ![85%](https://progress-bar.dev/85/?title=A&color=2196F3) |
+| Semantic and accessible **HTML5**                 | ██████████░░ 95% |
+| Responsive UI with **CSS3**, **Bootstrap**, **Tailwind CSS** | ██████████░░ 95% |
+| Modern **JavaScript (ES6+)**                      | █████████░░░ 85% |
+| **Firebase** (Authentication, Realtime DB)        | ████████░░░░ 75% |
+| **React** (Components, State, Props) *(learning)* | ███████░░░░░ 65% |
+| Mobile-first design & performance optimization    | █████████░░░ 85% |
 
 ---
 
@@ -53,5 +53,3 @@ I'm always open to exciting opportunities, collaborations, and learning from fel
 Feel free to connect or reach out for any web projects or open-source contributions!
 
 ---
-
-> _Built with ❤️ by Muhammad Javed_
