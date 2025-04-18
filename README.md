@@ -7,14 +7,14 @@ My focus is on writing clean, maintainable code, building user-friendly experien
 
 ## ⚙️ Key Skills & Proficiency
 
-| Skill                                              | Proficiency Level |
-|---------------------------------------------------|-------------------|
-| Semantic and accessible **HTML5**                 | 🟢 A+              |
-| Responsive UI with **CSS3**, **Bootstrap**, **Tailwind CSS** | 🟢 A+              |
-| Modern **JavaScript (ES6+)**                      | 🟢 A               |
-| **Firebase** (Authentication, Realtime DB)        | 🟡 B+              |
-| **React** (Components, State, Props) *(learning)* | 🟡 B               |
-| Mobile-first design & performance optimization    | 🟢 A               |
+| Skill                                              | Proficiency |
+|---------------------------------------------------|-------------|
+| Semantic and accessible **HTML5**                 | ![95%](https://progress-bar.dev/95/?title=A+&color=4CAF50) |
+| Responsive UI with **CSS3**, **Bootstrap**, **Tailwind CSS** | ![95%](https://progress-bar.dev/95/?title=A+&color=4CAF50) |
+| Modern **JavaScript (ES6+)**                      | ![85%](https://progress-bar.dev/85/?title=A&color=2196F3) |
+| **Firebase** (Authentication, Realtime DB)        | ![75%](https://progress-bar.dev/75/?title=B+&color=FFC107) |
+| **React** (Components, State, Props) *(learning)* | ![65%](https://progress-bar.dev/65/?title=B&color=FF9800) |
+| Mobile-first design & performance optimization    | ![85%](https://progress-bar.dev/85/?title=A&color=2196F3) |
 
 ---
 
@@ -54,3 +54,4 @@ Feel free to connect or reach out for any web projects or open-source contributi
 
 ---
 
+> _Built with ❤️ by Muhammad Javed_
